@@ -8,7 +8,8 @@
     "email": "vincentchrisbone@gmail.com"
   },
   "repository": {
-    "type": "git"
+    "type": "git",
+    "url": "https://github.com/VIncentTetteh/angular-bootstrap-custom-form-controls"
   },
   "peerDependencies": {
     "@angular/common": "^13.1.0",
