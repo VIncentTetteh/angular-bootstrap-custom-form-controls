@@ -1,0 +1,6 @@
+<textarea
+  class="form-control" rows={{row}}
+  [ngModel] ="value"
+  (ngModelChange)="onChange($event)"
+  (blur)="onTouched()"
+  ></textarea>

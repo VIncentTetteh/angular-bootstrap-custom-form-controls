@@ -1,0 +1,20 @@
+{
+  "name": "form-controls",
+  "version": "0.0.1",
+  "description": "This is a bootstrap form controls library for rapid form creation using angular reactive forms",
+  "keywords": ["form","controls","reactive","bootstrap"],
+  "author": {
+    "name": "Vincent Tetteh",
+    "email": "vincentchrisbone@gmail.com"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "peerDependencies": {
+    "@angular/common": "^13.1.0",
+    "@angular/core": "^13.1.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}
